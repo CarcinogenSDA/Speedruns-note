@@ -80,11 +80,11 @@ Get Terra's level 6 by fighting random battles along the way :
 
 ----------
 
-- Rename **Terra** "**T**"
+- Rename **Terra** "T"
 
 ## 3. Cave Pursuit
 - If Terra still isn't level 6, get it here by using Fire in every battle before the next event.
-- Rename **Locke** "**L**"
+- Rename **Locke** "L"
 #### Boss : Marshall battle (420 HP)
 
 Here is a easy skip but you need to be fast in order to get it. With this, you can avoid all the battles and get directly to the boss.

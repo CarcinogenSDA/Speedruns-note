@@ -82,11 +82,11 @@ Faites atteindre le niveau 6 à Terra grace à des batailles aléatoires durant 
 
 ----------
 
-- Rename **Terra **"**T**"
+- Rename **Terra **"T"
 
 ## 3. La bataille de la grotte
 - Si Terra n'est toujours pas niveau 6, obtenez-le maintenant avant de tomber dans la crevasse en utilisant le sort "Fire" sur tous les ennemis rencontrés.
-- Renommez **Locke** "**L**"
+- Renommez **Locke** "L"
 
 #### Boss : Marshall (420 HP)
 
@@ -99,9 +99,9 @@ Voici un skip facile à réaliser, mais vous allez devoir être rapide pour le r
 
 
 ## 4. Figaro #
-- Allez à la salle du throne, rencontrez **Edgar** et renommez le en "**E**"
+- Allez à la salle du throne, rencontrez **Edgar** et renommez le en "E"
 -  Allez à l'aile ouest du chateau et parlez à la matronne qui garde le lit d'Edgar.
--  Renommez **Sabin** en "**S**", puis retournez à la salle du trone.
+-  Renommez **Sabin** en "S", puis retournez à la salle du trone.
 - Quand vous prenez le contrôle d'Edgar, parlez aux deux gardes puis à Kefka.
 - Avec Terra, allez à l'aile est et parlez ensuite à Locke
 - Quand vous reprenez le contrôle d'Edgar, **NE PARLEZ PAS A KEFKA**, parlez directement parler au garde plus haut.
