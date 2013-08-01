@@ -190,4 +190,4 @@ Utilisez l'auto-crossbow pour arriver au bout des batailes que vous rencontrerez
 ----------
 
 
-Et voila, c'est tout poru ce guide ! Si vous avez des questions ou des suggestions à propos de mon guide, vous pouvez envoyez un e-mail à mon adresse gmail ( Dreamboum[at]gmail.com ) ou par MP sur [Twitch](http://www.twitch.tv/Dreamboum).
+Et voila, c'est tout pour ce guide ! Si vous avez des questions ou des suggestions à propos de mon guide, vous pouvez envoyez un e-mail à mon adresse gmail ( Dreamboum[at]gmail.com ) ou par MP sur [Twitch](http://www.twitch.tv/Dreamboum).
